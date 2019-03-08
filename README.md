@@ -2,7 +2,7 @@
 
 This is my tribute page for freeCodeCamp's first [basic front end project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) dedicated to Burt Munro, one of the most inspiring names in the speed records history. Demo is available [on codepen.io](https://codepen.io/macnick/full/POXYeg).
 
-[![Tribute Page](/src/images/screenshot.jpg?raw=true&sanitize=true)](https://zsolti.co/fcc/tribute/)
+[![Tribute Page](/screenshot.jpg?raw=true&sanitize=true)](https://zsolti.co/fcc/tribute/)
 
 Icons made by [Freepik](http://www.freepik.com) from [flaticon.com](https://www.flaticon.com/) and licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 
