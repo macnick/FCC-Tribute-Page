@@ -13,17 +13,14 @@ Icons made by [Freepik](http://www.freepik.com) from [flaticon.com](https://www.
 
 ## Tools Used
 
-- [Gulp.js](https://github.com/gulpjs/gulp) task runner
 - [Webpack](https://github.com/webpack/webpack) module bundler
 - [Babel](https://github.com/babel/babel) compiler
 - [ESLint](https://github.com/eslint/eslint) linter with Airbnb's [base config](https://www.npmjs.com/package/eslint-config-airbnb-base)
-- [Pug](https://github.com/pugjs/pug) template engine
 - [Sass](http://sass-lang.com) with [PostCSS](https://github.com/postcss/postcss)' [Autoprefixer](https://github.com/postcss/autoprefixer)
-- [Particles.js](https://github.com/VincentGarreau/particles.js)
 
 ## Install and Build
 
-You need to have `yarn` [installed](https://yarnpkg.com/lang/en/docs/install/) on your computer. (Actually, you could also use `npm` but I prefer `yarn` 👌)
+Nothing to install, just clone this repo and you are good to go.
 
 #### Clone this repo
 
