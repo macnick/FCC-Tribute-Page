@@ -13,7 +13,7 @@ Icons made by [Freepik](http://www.freepik.com) from [flaticon.com](https://www.
 
 ## Tools Used
 
-- [HTML5] Markup Language
+- HTML5 Markup Language
 - [Bootstrap 3](https://getbootstrap.com/docs/3.3/) HTML, CSS and JS framework for responsive projects on the web.
 
 ## Install and Build
