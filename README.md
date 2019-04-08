@@ -25,8 +25,8 @@ Nothing to install, just clone this repo and you are good to go.
 #### Clone this repo
 
 ``` bash
-git clone https://github.com/zsoltime/fcc-tribute.git
-cd fcc-tribute
+git clone https://github.com/macnick/FCC-Tribute-Page.git
+cd FCC-Tribute-Page
 ```
 
 #### Install dependencies
